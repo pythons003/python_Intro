@@ -394,9 +394,18 @@ print(list1.reverse()) # reverse the list
 print(list1)
 
 list1.sort(reverse=True) # sort the list in descending order
+list1.sort() # sort the list in descending order
+
 print(list1)
 
 # home work for you
 
+# create a list of 10 numbers and print the sum of these numbers but the list should
+# have 2 numbers as string and the rest as numbers also int and float
+# avarage of the list
+# max and min of the list
+# print the index of the max and min of the list
+
+#
 
 
